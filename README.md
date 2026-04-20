@@ -28,9 +28,12 @@ Features Used
 pressure · dewpoint · humidity · cloud · sunshine · winddirection · windspeed
 
 Tech Stack
-Python , Pandas
-NumPy , Scikit-learn
-Matplotlib  , Seaborn 
+Python , Pandas ,
+
+NumPy , Scikit-learn ,
+
+Matplotlib  , Seaborn ,
+
 Streamlit , Joblib
 
 Key Learning
