@@ -7,7 +7,7 @@ Problem Statement :-
 Given daily weather readings, can we predict rainfall accurately enough to be useful? This project answers that by comparing three classification models and deploying the best one as an interactive web application.
 
 Workflow :-
-Data Cleaning → EDA → Feature Selection → Model Training → Evaluation → Deployment
+Data Cleaning -> EDA -> Feature Selection -> Model Training > Evaluation > Deployment
 
 Step	What I Did :-
 Data Cleaning	Stripped extra spaces from column names, dropped 1 null row in winddirection and windspeed
